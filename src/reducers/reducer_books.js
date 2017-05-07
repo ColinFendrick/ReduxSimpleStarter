@@ -12,12 +12,12 @@ export default function() {
     },
     { title: 'Harry Potter',
       pages:320,
-      description: 'High tuition costs keep most witches wizards saddles with student loan well into their 40\'s',
+      description: 'High tuition costs keep most witches wizards saddles with student loan well into their 40\'s. Also Daniel Radcliffe looks messed up now:',
       imSrc: 'http://i.telegraph.co.uk/multimedia/archive/02127/Daniel_Radcliffe_2127843b.jpg'
     },
     { title: 'A Farewell to Arms',
       pages: 247,
-      description: 'I thought this was going to be about a parapalegic',
+      description: 'I thought this was going to be about a parapalegic. Here\'s another of Mr. Radcliffe:',
       imSrc: 'http://s1.thingpic.com/images/yE/VKAN71CN7yASvukAKi8MnMYK.jpeg'
     },
     { title: 'To Kill a Mockingbird',

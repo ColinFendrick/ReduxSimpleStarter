@@ -1,3 +1,20 @@
+body {
+  background-color: hsla(226, 30%, 35%, 0.33);
+  height: 100%;
+}
+
 img {
-  width: 150px;
+  width: 350px;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  border: 1px solid grey;
+}
+
+.BookDetail {
+  border: 1px solid white;
+  background: linear-gradient(to bottom right, hsla(57, 73%, 71%, 0.41), hsla(133, 95%, 17%, 0.19))
 }
